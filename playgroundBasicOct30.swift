@@ -8,12 +8,15 @@ let estoEsString:String = "String"
 let double:Double = 3.14
 let esVerdadero: Bool = true
 let entero: Int = 22
+
 /*
+
 print(estoEsString)
 print(double)
 print(esVerdadero)
 
 print(entero)
+
 */
 
 if entero > 25 {
